@@ -1,0 +1,8 @@
+body { 
+	padding: 40px;
+}
+
+jumbotron, input {
+    display: block;
+	width: 100%;
+}
