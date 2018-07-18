@@ -13,4 +13,4 @@ An example of a jumbotron that will appear with an article summary, link to the 
 
 
 Evidence that the database is working -- see below how the Heroku mLab MongoDB add-on is being populated with the articles scraped.
-![HerokumLabData](/public/images/HeroluMLab.png)
+![HerokumLabData](/public/images/HerokuMLab.png)
