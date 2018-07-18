@@ -4,5 +4,5 @@ A web app using Mongoose and Cheerio that lets users scrape https://www.vacation
 If you would like to use the app or inspect, feel free to clone to your local desktop and use npm init to install the package dependencies. Note that you will need to connect to mongo to run this application successfully. 
 
 
-![LandingPage](../inages/public/FrontPage.png)
+![LandingPage](/public/images/FrontPage.png)
 
